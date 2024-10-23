@@ -1,0 +1,17 @@
+# ninja log v6
+1211	1284	1729706879513326551	libgcmma.a	3c306e74037c5ca1
+11	3244	1729714731701853832	Google_tests/lib/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	799190f70ea59e65
+11	1249	1729714731702415503	Google_tests/lib/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	1a2dd115f8e8f704
+3	1685	1729706070801608023	CMakeFiles/gcmma.dir/gcmma.cpp.o	d89e210017042055
+1	1215	1729706971603206397	CMakeFiles/test_gcmma.dir/testgcmma.cpp.o	450797b401011730
+2	1209	1729705255104906183	CMakeFiles/gcmma.dir/main.cpp.o	c83bc9d5a21903c2
+10	1210	1729706878312376124	CMakeFiles/gcmma.dir/testgcmma.cpp.o	c56b4a542e472721
+992	1072	1729707125545352296	test_gcmma	b84dfaf97487416e
+1179	1274	1729715712631782545	Google_tests/Google_Tests_run	6ae0a9b1590e5776
+10	1179	1729715711462495781	Google_tests/CMakeFiles/Google_Tests_run.dir/ExampleTest.cpp.o	369b098fb6ccf8a
+3353	3425	1729714735044870573	lib/libgtest_maind.a	721df96f75c59a07
+11	992	1729707124564251674	CMakeFiles/test_gcmma.dir/gcmma.cpp.o	bcc6d2c6b8d1f75c
+895	971	1729715712347102591	src/libgcmma_lib.a	a6d8d123a054f86c
+3245	3353	1729714734936723991	lib/libgtestd.a	fc558a5ce02aa602
+3	116	1729716156441814869	build.ninja	c5319a871f12963
+9	894	1729715711461896763	src/CMakeFiles/gcmma_lib.dir/gcmma.cpp.o	a085f8da3e2fe18d
